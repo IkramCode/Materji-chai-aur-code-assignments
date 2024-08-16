@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .logo-large {
+      height: 70px;
+      width: 120px;
+    }
+  }
